@@ -52,7 +52,11 @@ In summary, a penetration toolkit is a vital resource for ethical hackers and cy
 
 OUTPUT:
 
+PORT-SCANNER:
 ![Image](https://github.com/user-attachments/assets/58277e19-5f49-4e8e-8eec-9937ddc7d26f)
+
+BRUTE-FORCER
+![Image](https://github.com/user-attachments/assets/d6ceed46-b3f5-44c0-94ba-a55ce6e1932c)
 
 
 
