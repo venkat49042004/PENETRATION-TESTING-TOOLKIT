@@ -52,7 +52,7 @@ In summary, a penetration toolkit is a vital resource for ethical hackers and cy
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/58277e19-5f49-4e8e-8eec-9937ddc7d26f)
 
 
 
