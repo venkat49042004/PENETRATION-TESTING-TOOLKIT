@@ -1,14 +1,7 @@
-# PENETRATION-TESTING-TOOLKIT
+Project title and description
 
-COMPANY: CODTECH IT SOLUTIONS
+Setup instructions
 
-NAME: VENKATESH MOGALI
+Module usage examples
 
-INTERN ID: CT08DL222
-
-DOMAIN: CYBER SECURITY & ETHICAL HACKING
-
-DURATION: 8 WEEKS
-
-MENTOR: NEELA SANTOSH
-
+Legal disclaimer (important!)
